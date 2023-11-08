@@ -13,3 +13,9 @@ A sunset to sunrise animation using P5.js and calculated with frameCount.
 [Click to add a Flower](./flower)
 
 A static animation where when a user clicks on anywhere on a screen it will produce a flower.
+
+# P5 Game
+Use up and down arrow keys to move around in this game.
+
+[Click to open game](./p5game)
+
