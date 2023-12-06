@@ -2,13 +2,18 @@
 
 A listing of some of my P5 projects that I created at UCF in my DIG5508 course.
 
-# Project One
+# Final Project Version 1
+
+
+# Final Project Version 2
+
+#  Sunset to Sunrise
 
 [Sunset to Sunrise](./sunset)
 
 A sunset to sunrise animation using P5.js and calculated with frameCount.
 
-# Project Two
+# Flower Animation
 
 [Click to add a Flower](./flower)
 
