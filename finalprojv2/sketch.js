@@ -36,7 +36,7 @@ function setup() {
     planets.push(new Planet(30, 175, 0.8, 100, color('#de6840'), "Venus"));
     // earth = new Planet(20, 230, 0.6, 190, color('green'));
     planets.push(new Planet(25, 230, 0.6, 190, color('green'), "Earth"))
-    planets.push(new Planet(30, 286, 0.56, 220, color('red'), "Mars"));
+    planets.push(new Planet(30, 286, 0.45, 220, color('red'), "Mars"));
     planets.push(new Planet(50, 360, 0.3, 60, color('#7e79a3'), "Jupiter"));
     planets.push(new Planet(50, 470, 0.1, 120, color('gray'), "Saturn"));
    
