@@ -101,7 +101,7 @@ function draw()
     for (let i = 0; i < planets.length - 1; i++) {
         for (let j = i + 1; j < planets.length; j++) {
 
-            ;
+            
 
         
                 planets[i].drawLineTo(planets[j]); // Draw lines between planets
