@@ -4,6 +4,9 @@ A listing of some of my P5 projects that I created at UCF in my DIG5508 course.
 
 # Final Project Version 1
 
+This version of my final project displays the planetary aspects between Venus and Mercury. It also describes what a planetary aspect is, with user interaction.
+[Final Project Version 1](finalprojv1)
+
 
 # Final Project Version 2
 
