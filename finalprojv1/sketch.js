@@ -63,7 +63,7 @@ function draw()
 
     fill('yellow');
     textSize(18);
-    text('Press Enter to learn about Planetary Alignments',width/2-550, height-1100);
+    text('Press Enter to learn about Planetary Aspects',width/2-550, height-1100);
 
     fill('yellow');
     textSize(18);
